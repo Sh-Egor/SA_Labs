@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1234",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate, incidunt tempore voluptates enim quae sunt exercitationem totam ab similique et maiores animi temporibus.",
+    "userId": "123244",
+    "rightAnswer": "a+b*",
+    "samples": ["aaaabbbb", "ab", "abbbbb", "aaaaaa", "aaaab"]
+  }, {
+    "id": "1234",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate, incidunt tempore voluptates enim quae sunt exercitationem totam ab similique et maiores animi temporibus.",
+    "userId": "123244",
+    "rightAnswer": "a+b*",
+    "samples": ["aaaabbbb", "ab", "abbbbb", "aaaaaa"]
+  }
+]
